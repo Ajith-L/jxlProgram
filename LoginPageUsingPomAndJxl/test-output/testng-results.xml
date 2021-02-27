@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="4" passed="4">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="83308" started-at="2021-02-27T10:22:35Z" finished-at="2021-02-27T10:23:59Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="83308" started-at="2021-02-27T10:22:35Z" finished-at="2021-02-27T10:23:59Z">
+      <class name="loginpage.LoginPage">
+        <test-method status="PASS" signature="logindata(java.lang.String, java.lang.String)[pri:0, instance:loginpage.LoginPage@144fc66]" name="logindata" duration-ms="30231" started-at="2021-02-27T15:52:36Z" data-provider="con" finished-at="2021-02-27T15:53:06Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Admin]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[admin123]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- logindata -->
+        <test-method status="PASS" signature="logindata(java.lang.String, java.lang.String)[pri:0, instance:loginpage.LoginPage@144fc66]" name="logindata" duration-ms="16850" started-at="2021-02-27T15:53:06Z" data-provider="con" finished-at="2021-02-27T15:53:23Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[fgtj]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[admin123]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- logindata -->
+        <test-method status="PASS" signature="logindata(java.lang.String, java.lang.String)[pri:0, instance:loginpage.LoginPage@144fc66]" name="logindata" duration-ms="16927" started-at="2021-02-27T15:53:23Z" data-provider="con" finished-at="2021-02-27T15:53:40Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Admin]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[setrh]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- logindata -->
+        <test-method status="PASS" signature="logindata(java.lang.String, java.lang.String)[pri:0, instance:loginpage.LoginPage@144fc66]" name="logindata" duration-ms="18869" started-at="2021-02-27T15:53:40Z" data-provider="con" finished-at="2021-02-27T15:53:59Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[lkjnm]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[abhjuv]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- logindata -->
+      </class> <!-- loginpage.LoginPage -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
